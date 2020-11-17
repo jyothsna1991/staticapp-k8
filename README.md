@@ -1,0 +1,1 @@
+# staticapp-k8
